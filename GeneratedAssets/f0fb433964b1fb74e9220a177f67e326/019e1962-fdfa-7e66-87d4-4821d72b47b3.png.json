@@ -1,0 +1,28 @@
+{
+    "asset": "f0fb433964b1fb74e9220a177f67e326",
+    "fileName": "019e1962-fdfa-7e66-87d4-4821d72b47b3.png",
+    "prompt": "A large, bold hand-drawn doodle of a warrior child, black ink on white paper, thick lines, takes up most of the frame, 2D top-down.",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

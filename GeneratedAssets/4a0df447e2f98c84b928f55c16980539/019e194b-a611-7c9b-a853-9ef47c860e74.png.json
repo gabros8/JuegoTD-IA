@@ -1,0 +1,28 @@
+{
+    "asset": "4a0df447e2f98c84b928f55c16980539",
+    "fileName": "019e194b-a611-7c9b-a853-9ef47c860e74.png",
+    "prompt": "A mean-looking hand-drawn doodle of a shadow monster sketch, black ink with messy scribbles, 2D top-down style, minimalistic, thick outlines, paper cutout aesthetic.",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

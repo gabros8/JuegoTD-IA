@@ -1,0 +1,28 @@
+{
+    "asset": "d709bb7a0b5187a478d04e47536ea301",
+    "fileName": "019e194b-8da3-7784-b564-e519765dabb6.png",
+    "prompt": "A simple hand-drawn doodle of a cute warrior child sketch, black ink on white paper, 2D top-down style, minimalistic, thick outlines, paper cutout aesthetic.",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}
